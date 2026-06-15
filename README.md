@@ -54,4 +54,3 @@ Puedes ver mi portfolio aquí:
 
 * [LinkedIn](https://www.linkedin.com/in/mcuestasoto)
 * [GitHub](https://github.com/mcuestasoto)
-* [Portfolio](https://mercedescuesta.vercel.app/)
