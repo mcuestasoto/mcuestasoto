@@ -2,19 +2,21 @@
 
 **Frontend Developer | Android Developer | E-commerce**
 
-Soy desarrolladora de software orientada a **frontend**, con experiencia profesional en desarrollo **Android** en entorno **e-commerce** para Oysho / Inditex. Me gusta crear interfaces cuidadas, claras y funcionales, combinando estructura técnica, diseño y experiencia de usuario.
+Soy desarrolladora de software orientada a **frontend**, con experiencia profesional en **desarrollo Android** dentro de un entorno **e-commerce** para Oysho / Inditex.
 
-Actualmente estoy enfocando mi perfil hacia el **desarrollo web frontend**, reforzando HTML, CSS y JavaScript, y construyendo proyectos propios para seguir creciendo profesionalmente.
+Me gusta crear interfaces cuidadas, claras y funcionales, combinando estructura técnica, diseño y experiencia de usuario.
+
+Actualmente estoy reforzando mi perfil en **HTML, CSS y JavaScript**, construyendo proyectos propios y orientando mi carrera hacia el desarrollo web frontend.
 
 ---
 
 ## Sobre mí 🌿
 
-* 💻 Me interesa el desarrollo frontend, la accesibilidad y las interfaces bien estructuradas.
-* 📱 Tengo experiencia profesional en Android con Kotlin, Java y XML.
-* 🛍️ He trabajado en entorno e-commerce, colaborando con equipos de diseño, backend y QA.
+* 💻 Interesada en desarrollo frontend, accesibilidad e interfaces bien estructuradas.
+* 📱 Experiencia profesional en Android con Kotlin, Java y XML.
+* 🛍️ Experiencia en entorno e-commerce, colaborando con equipos de diseño, backend y QA.
 * ✨ Me gusta cuidar los detalles visuales sin perder claridad ni funcionalidad.
-* 📚 Siempre estoy aprendiendo y mejorando mi perfil técnico.
+* 📚 En aprendizaje continuo para seguir creciendo como desarrolladora.
 
 ---
 
@@ -42,15 +44,17 @@ Git · GitHub · Jira · Android Studio · VS Code
 
 ---
 
-## Portfolio 🚀
+## Proyecto destacado 🚀
 
-Puedes ver mi portfolio aquí:
+### Portfolio personal
 
-[mercedescuesta.vercel.app](https://mercedescuesta.vercel.app/)
+Portfolio tipo CV web desarrollado con **HTML, CSS y JavaScript**.
+
+🔗 [Ver portfolio](https://mercedescuesta.vercel.app)
 
 ---
 
 ## Contacto 🤍
 
-* [LinkedIn](https://www.linkedin.com/in/mcuestasoto)
-* [GitHub](https://github.com/mcuestasoto)
+[LinkedIn](https://www.linkedin.com/in/mcuestasoto)
+[Email](mailto:mcuestasoto@gmail.com)
