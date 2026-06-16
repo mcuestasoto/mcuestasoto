@@ -12,35 +12,35 @@ Actualmente estoy reforzando mi perfil en **HTML, CSS y JavaScript**, construyen
 
 ## Sobre mí 🌿
 
-* 💻 Interesada en desarrollo frontend, accesibilidad e interfaces bien estructuradas.
-* 📱 Experiencia profesional en Android con Kotlin, Java y XML.
-* 🛍️ Experiencia en entorno e-commerce, colaborando con equipos de diseño, backend y QA.
-* ✨ Me gusta cuidar los detalles visuales sin perder claridad ni funcionalidad.
-* 📚 En aprendizaje continuo para seguir creciendo como desarrolladora.
+- 💻 Interesada en desarrollo frontend, accesibilidad e interfaces bien estructuradas.
+- 📱 Experiencia profesional en Android con Kotlin, Java y XML.
+- 🛍️ Experiencia en entorno e-commerce, colaborando con equipos de diseño, backend y QA.
+- ✨ Me gusta cuidar los detalles visuales sin perder claridad ni funcionalidad.
+- 📚 En aprendizaje continuo para seguir creciendo como desarrolladora.
 
 ---
 
 ## Stack técnico 🛠️
 
-**Frontend**
+**Frontend**  
 HTML5 · CSS3 · JavaScript · Bootstrap
 
-**Mobile**
+**Mobile**  
 Kotlin · Java · XML · Android SDK · Material Design
 
-**Backend / datos**
+**Backend / datos**  
 SQL · Firebase · REST API
 
-**Herramientas**
+**Herramientas**  
 Git · GitHub · Jira · Android Studio · VS Code
 
 ---
 
 ## Actualmente 🌱
 
-* Reforzando mi perfil frontend con HTML, CSS y JavaScript.
-* Construyendo proyectos propios para ampliar mi portfolio.
-* Abierta a nuevas oportunidades profesionales en frontend, Android y desarrollo software.
+- Reforzando mi perfil frontend con HTML, CSS y JavaScript.
+- Construyendo proyectos propios para ampliar mi portfolio.
+- Abierta a nuevas oportunidades profesionales en frontend, Android y desarrollo software.
 
 ---
 
@@ -57,4 +57,5 @@ Portfolio tipo CV web desarrollado con **HTML, CSS y JavaScript**.
 ## Contacto 🤍
 
 [LinkedIn](https://www.linkedin.com/in/mcuestasoto)
+
 [Email](mailto:mcuestasoto@gmail.com)
