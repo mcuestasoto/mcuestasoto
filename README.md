@@ -13,7 +13,6 @@ Actualmente mi foco está en el desarrollo web con JavaScript, HTML y CSS, mient
 ## Sobre mí
 
 - 💻 Me interesa especialmente el desarrollo frontend y la parte visual de las interfaces.
-- 🛍️ Tengo más de dos años de experiencia profesional trabajando en producto e-commerce para Oysho | Grupo Inditex.
 - 📱 Mi experiencia profesional anterior fue en desarrollo Android.
 - ✨ Me gusta cuidar los detalles visuales sin perder claridad ni funcionalidad.
 - 🌱 Actualmente sigo formándome y creando proyectos frontend.
@@ -37,17 +36,11 @@ SQL
 ### ALTEN SPAIN — Desarrolladora Android
 **Proyecto para Oysho | Grupo Inditex · 2022–2025**
 
-Más de dos años como desarrolladora Android en una aplicación e-commerce en producción, con responsabilidades en implementación de interfaces y componentes de usuario, lógica de cliente, gestión de estado, integración con APIs REST, resolución de incidencias y mejora del rendimiento.
+Trabajé en el desarrollo y mantenimiento de una aplicación e-commerce en producción para Oysho | Grupo Inditex.
 
 **Tecnologías utilizadas:** Kotlin · Java · XML · Android SDK
 
-Trabajo en equipo dentro de un entorno Agile/Scrum utilizando Git y Jira.
-
-## Actualmente
-
-- Reforzando mi perfil frontend con JavaScript, HTML y CSS.
-- Creando proyectos para seguir ampliando mi portfolio.
-- Abierta a nuevas oportunidades profesionales en desarrollo frontend.
+Entorno de trabajo: Agile/Scrum · Git · Jira
 
 ## Portfolio
 
