@@ -1,4 +1,4 @@
-# Hola, soy Mercedes Cuesta 👋🏼
+# Hola, soy Mercedes Cuesta 👋🏻
 
 **Frontend Developer · JavaScript · HTML · CSS**
 
