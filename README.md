@@ -1,27 +1,20 @@
 # Hola, soy Mercedes Cuesta 👋🏻
 
-**Frontend Developer · JavaScript · HTML · CSS**
+**Software Developer · Frontend**
 
 > Creo interfaces cuidadas y funcionales.
 
-Soy desarrolladora de software orientada al desarrollo frontend, con más de dos años de experiencia profesional desarrollando y manteniendo una aplicación e-commerce en producción.
+Soy desarrolladora de software con 2,5 años de experiencia profesional como desarrolladora Android, trabajando en una aplicación e-commerce en producción para Oysho | Grupo Inditex.
 
-Durante mi etapa en ALTEN trabajé en el proyecto de Oysho | Grupo Inditex, participando en la implementación de interfaces y componentes de usuario, lógica de cliente, gestión de estado, integración con APIs REST, resolución de incidencias y mejora del rendimiento.
+Actualmente oriento mi perfil hacia el desarrollo frontend web, con foco en JavaScript, HTML y CSS. Mi experiencia previa me aporta una base profesional en desarrollo de interfaces, lógica de cliente, gestión de estado, integración de APIs REST, resolución de incidencias y trabajo con Git en equipos Agile/Scrum.
 
-Actualmente mi foco está en el desarrollo web con JavaScript, HTML y CSS, mientras sigo formándome y creando proyectos para ampliar mi perfil frontend.
-
-## Sobre mí
-
-- 💻 Me interesa especialmente el desarrollo frontend y la parte visual de las interfaces.
-- 📱 Mi experiencia profesional anterior fue en desarrollo Android.
-- ✨ Me gusta cuidar los detalles visuales sin perder claridad ni funcionalidad.
-- 🌱 Actualmente sigo formándome y creando proyectos frontend.
+Complemento esta transición con formación en desarrollo web y proyectos frontend en producción.
 
 ## Stack actual
 
 ### Frontend
 
-HTML5 · CSS3 · JavaScript · Bootstrap
+JavaScript · HTML5 · CSS3 · Bootstrap · Responsive Web Design · Accesibilidad web
 
 ### Desarrollo
 
@@ -31,22 +24,40 @@ Git · GitHub · APIs REST · Jira · Agile/Scrum
 
 SQL
 
-## Experiencia
+## Experiencia profesional
 
-### ALTEN SPAIN — Desarrolladora Android
-**Proyecto para Oysho | Grupo Inditex · 2022–2025**
+### ALTEN · Desarrolladora Android
+**Proyecto para Oysho | Grupo Inditex · oct. 2022 – mar. 2025**
 
-Trabajé en el desarrollo y mantenimiento de una aplicación e-commerce en producción para Oysho | Grupo Inditex.
+Desarrollo y mantenimiento de funcionalidades para una aplicación e-commerce Android en producción.
 
-**Tecnologías utilizadas:** Kotlin · Java · XML · Android SDK
+**Tecnologías:** Kotlin · Java · XML · Android SDK
 
-Entorno de trabajo: Agile/Scrum · Git · Jira
+### Accenture · Prácticas en desarrollo y datos
+**mar. 2022 – jun. 2022**
 
-## Portfolio
+Procesamiento de datos mediante procesos ETL, integración y transformación, y trabajo con bases de datos en entorno corporativo.
 
-🌐 https://mercedescuesta.vercel.app/
+## Proyectos destacados
+
+### [Portfolio personal](https://mercedescuesta.vercel.app/)
+
+Portfolio responsive desarrollado desde cero con HTML, CSS y JavaScript, con navegación accesible, Open Graph, datos estructurados y despliegue en Vercel.
+
+[Repositorio](https://github.com/mcuestasoto/portfolio)
+
+### [Web profesional en producción](https://mercedes-cuesta-dietista.vercel.app/)
+
+Sitio web desarrollado con HTML, CSS y JavaScript, con diseño responsive, componentes interactivos, accesibilidad web, SEO técnico y optimización de rendimiento.
+
+[Repositorio](https://github.com/mcuestasoto/mercedes-cuesta-dietista)
+
+## Formación
+
+- **Bootcamp Full-Stack JavaScript · JSCamp** — 2026 – actualidad
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** — 2020 – 2022
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/mcuestasoto
-- Portfolio: https://mercedescuesta.vercel.app/
+- [LinkedIn](https://www.linkedin.com/in/mcuestasoto)
+- [Portfolio](https://mercedescuesta.vercel.app/)
