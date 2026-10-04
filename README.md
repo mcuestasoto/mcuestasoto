@@ -8,7 +8,7 @@ Mi experiencia profesional me aporta una base sólida en desarrollo de interface
 
 ## 🧩 Stack actual
 
-**Frontend:** JavaScript · HTML5 · CSS3 · Bootstrap · Responsive Web Design · Accesibilidad web
+**Frontend:** JavaScript · HTML5 · CSS3 · Responsive Web Design · Accesibilidad web
 
 **Desarrollo y entrega:** Git · GitHub · GitHub Actions · APIs REST · Vercel
 
