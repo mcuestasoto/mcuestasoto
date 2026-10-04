@@ -12,7 +12,7 @@ Mi experiencia profesional me aporta una base sólida en desarrollo de interface
 
 **Desarrollo y entrega:** Git · GitHub · GitHub Actions · APIs REST · Vercel
 
-## 💻 Proyectos destacados
+## 📁 Proyectos destacados
 
 ### [Portfolio personal](https://mercedescuesta.vercel.app/)
 
@@ -26,6 +26,6 @@ Sitio web en producción desarrollado y mantenido con HTML, CSS y JavaScript, co
 
 [Ver código](https://github.com/mcuestasoto/mercedes-cuesta-dietista)
 
-## 🔗 Enlaces
+## 🌐 Enlaces
 
 [Portfolio](https://mercedescuesta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mcuestasoto)
