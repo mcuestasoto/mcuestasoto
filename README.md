@@ -6,13 +6,13 @@ Desarrolladora de software con 2,5 años de experiencia profesional en Android. 
 
 Mi experiencia profesional me aporta una base sólida en desarrollo de interfaces, integración con APIs REST, Git y trabajo en equipos Agile/Scrum.
 
-## Stack actual
+## 🧩 Stack actual
 
 **Frontend:** JavaScript · HTML5 · CSS3 · Bootstrap · Responsive Web Design · Accesibilidad web
 
 **Desarrollo y entrega:** Git · GitHub · GitHub Actions · APIs REST · Vercel
 
-## Proyectos destacados
+## 💻 Proyectos destacados
 
 ### [Portfolio personal](https://mercedescuesta.vercel.app/)
 
@@ -26,6 +26,6 @@ Sitio web en producción desarrollado y mantenido con HTML, CSS y JavaScript, co
 
 [Ver código](https://github.com/mcuestasoto/mercedes-cuesta-dietista)
 
-## Enlaces
+## 🔗 Enlaces
 
 [Portfolio](https://mercedescuesta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mcuestasoto)
